@@ -1,0 +1,19 @@
+{
+  "name": "portal_noticias",
+  "version": "1.0.0",
+  "description": "Site de Noticias",
+  "main": "noticias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebilieri/CursoNodeJS.git"
+  },
+  "author": "Emerson Bilieri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebilieri/CursoNodeJS/issues"
+  },
+  "homepage": "https://github.com/ebilieri/CursoNodeJS#readme"
+}
