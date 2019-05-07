@@ -46,3 +46,7 @@ Durante o curso desenvolveremos uma série de projetos reais, a ideia é botar o
 - MMORPG baseado na série de TV Game Of Thrones: O objetivo deste projeto consiste em integrar uma aplicação NodeJS com o banco de dados MongoDB demonstrando na prática como realizar as 4 operações básicas de inclusão, consulta, atualização e remoção de documentos. Neste projeto também será ensinado o método de autenticação por sessão para controle de páginas restritas da aplicação.
 
 - Instagram Clone: O Objetivo deste projeto consiste na criação de uma API RESTful em conjunto com uma aplicação web cliente baseada no Instagram. Neste módulo iremos nos aprofundar um pouco mais no protocolo HTTP e aprenderemos a utilizar além dos tradicionais métodos POST e GET os métodos PUT e DELETE.
+
+*******************
+npm init - iniciar npm no projeto
+
