@@ -1,8 +1,6 @@
-var express = require('express');
-var app = express();
-var msg = require('./mod_teste');
+var app = require('./config/server');
 
-app.set('view engine', 'ejs');
+var msg = require('./mod_teste');
 
 app.get('/', function(req, res){
 	res.render("home/index");
