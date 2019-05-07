@@ -51,4 +51,6 @@ Durante o curso desenvolveremos uma série de projetos reais, a ideia é botar o
 npm init - iniciar npm no projeto
 *******************
 npm install express -save = instalação do framework Express
+*******************
+npm install ejs --save = Instalação do EJS
 
