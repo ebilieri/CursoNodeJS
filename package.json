@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ebilieri/CursoNodeJS/issues"
   },
-  "homepage": "https://github.com/ebilieri/CursoNodeJS#readme"
+  "homepage": "https://github.com/ebilieri/CursoNodeJS#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
