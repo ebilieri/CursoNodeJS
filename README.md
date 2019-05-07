@@ -53,4 +53,7 @@ npm init - iniciar npm no projeto
 npm install express -save = instalação do framework Express
 *******************
 npm install ejs --save = Instalação do EJS
+*******************
+npm install -g nodemon = Instalação do Recuroso Nodemon (Recuroso instalado na globalmente / disponivel na maquina)
+nodemon app.js = Iniciar servidor node com nodemon
 
