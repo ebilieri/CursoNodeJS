@@ -7,6 +7,19 @@ Curso Completo do Desenvolvedor NodeJS e MongoDB
 
 https://www.udemy.com/curso-completo-do-desenvolvedor-nodejs/
 
+npm init = Iniciar npm no projeto
+*******************
+npm install express --save = Instalação do framework Express
+*******************
+npm install ejs --save = Instalação do EJS
+*******************
+npm install -g nodemon = Instalação do Recuroso Nodemon (Recurso instalado na globalmente / disponivel na maquina)
+nodemon app.js = Iniciar servidor node com nodemon
+******************
+npm install mysql --save = Instalação do Mysql para conexão de banco de dados
+
+
+
 Objetivo
 
 Aprenda a desenvolver aplicações web com esse curso completo de NodeJS e MongoDB, um curso 100% prático que vai te deixar por dentro de duas das tecnologias mais valorizadas pelo mercado.
@@ -47,13 +60,5 @@ Durante o curso desenvolveremos uma série de projetos reais, a ideia é botar o
 
 - Instagram Clone: O Objetivo deste projeto consiste na criação de uma API RESTful em conjunto com uma aplicação web cliente baseada no Instagram. Neste módulo iremos nos aprofundar um pouco mais no protocolo HTTP e aprenderemos a utilizar além dos tradicionais métodos POST e GET os métodos PUT e DELETE.
 
-*******************
-npm init - iniciar npm no projeto
-*******************
-npm install express -save = instalação do framework Express
-*******************
-npm install ejs --save = Instalação do EJS
-*******************
-npm install -g nodemon = Instalação do Recuroso Nodemon (Recuroso instalado na globalmente / disponivel na maquina)
-nodemon app.js = Iniciar servidor node com nodemon
+
 
