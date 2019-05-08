@@ -13,7 +13,7 @@ npm install express --save = Instalação do framework Express
 *******************
 npm install ejs --save = Instalação do EJS
 *******************
-npm install -g nodemon = Instalação do Recuroso Nodemon (Recurso instalado na globalmente / disponivel na maquina)
+npm install -g nodemon = Instalação do Recurso Nodemon (Recurso instalado na globalmente / disponivel na maquina)
 nodemon app.js = Iniciar servidor node com nodemon
 ******************
 npm install mysql --save = Instalação do Mysql para conexão de banco de dados
