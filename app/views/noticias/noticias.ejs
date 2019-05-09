@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 	<html lang="pt-br">
 		<head>
-			<meta charset="utf-8"/>
-			<title>Notícias</title>
+			<meta charset="UTF-8"/>
+			<title>Portal de Notícias</title>
 		</head>
 	<body>
 
@@ -11,14 +11,12 @@
 		<table>
 			<tr>
 				<td>Id</td>
-				<td>Titulo</td>
-				<td>Noticia</td>
+				<td>Titulo</td>				
 			</tr>
 			<% for(var i=0; i < noticias.length; i++) { %>
 				<tr>
 					<td><%= noticias[i].id_noticia %></td>
-					<td><%= noticias[i].titulo %></td>
-					<td><%= noticias[i].noticia %></td>
+					<td><%= noticias[i].titulo %></td>					
 				</tr>
 			<% } %>
 		</table>
