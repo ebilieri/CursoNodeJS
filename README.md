@@ -17,6 +17,8 @@ npm install -g nodemon = Instalação do Recurso Nodemon (Recurso instalado na g
 nodemon app.js = Iniciar servidor node com nodemon
 ******************
 npm install mysql --save = Instalação do Mysql para conexão de banco de dados
+******************
+npm install consign --save = Instalação do Consign para mapeamento das rotas
 
 
 
