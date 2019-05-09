@@ -10,6 +10,7 @@ app.set('views','./app/views');
 consign()
 .include('app/routes')
 .then('config/dbConnection.js') // Obrigatorio informar a extensão
+.then('app/models')
 .into(app);
 
 
