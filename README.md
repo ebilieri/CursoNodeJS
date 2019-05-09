@@ -19,6 +19,8 @@ nodemon app.js = Iniciar servidor node com nodemon
 npm install mysql --save = Instalação do Mysql para conexão de banco de dados
 ******************
 npm install consign --save = Instalação do Consign para mapeamento das rotas
+******************
+npm install body-parser --save = Instalação bady parser enviar recuperar dados do body
 
 
 
